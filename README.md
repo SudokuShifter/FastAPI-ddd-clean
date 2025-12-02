@@ -97,12 +97,3 @@ docker-compose up --build
 
 **Public Domain** - используйте на свое усмотрение.
 
----
-
-<div align="center">
-
-**Developed by [sudo_ku](https://github.com/SudokuShifter)**
-
-> 💡 **Tip:** Don't be sad, let others take care of it :)
-
-</div>
