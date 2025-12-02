@@ -2,10 +2,6 @@
 
 > A pure DDD-like structure for a FastAPI project. Use is allowed for everyone's delight, developer needs.
 
-[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.123+-green.svg)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/License-Public%20Domain-lightgrey.svg)](LICENSE)
-
 ## Описание
 
 Этот проект представляет собой чистую архитектуру на основе Domain-Driven Design (DDD) для FastAPI приложений. Структура организована таким образом, чтобы обеспечить разделение ответственности, тестируемость и масштабируемость.
@@ -92,8 +88,3 @@ docker-compose up --build
 ## Вклад
 
 Проект находится в общественном достоянии. Используйте, модифицируйте и распространяйте свободно.
-
-## Лицензия
-
-**Public Domain** - используйте на свое усмотрение.
-
