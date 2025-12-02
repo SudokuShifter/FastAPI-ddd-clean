@@ -1,0 +1,15 @@
+[project]
+name = "fastapi-ddd-clean"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.31.0",
+    "dishka>=1.7.2",
+    "fastapi>=0.123.4",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "pydantic>=2.12.5",
+    "uvicorn>=0.38.0",
+]
